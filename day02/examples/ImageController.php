@@ -1,7 +1,7 @@
 public ImageController extends CController {
 	
 	/**
-	 * ��ʾͼƬ
+	 * 显示图片
 	 * @param string $id
 	 */
 	public function actionDisplay($id) {
