@@ -1,0 +1,1 @@
+ImageController里的actionDisplay展示了如何使用EMongoGridFS输出图片
